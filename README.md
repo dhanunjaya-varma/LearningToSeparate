@@ -9,7 +9,7 @@ These instructions will help you to run python programs in sequence.
 ### Steps to decompose the audio files into the foreground and the background using rpca
 
 1. Download or clone this repository into local system.
-2. Download DCASE 2017 ASC(task 1) dataset and extract all the zip files into single folder.
+2. Download DCASE 2017 ASC(task 1) development dataset and extract all the zip files into single folder.
 3. Copy all the extracted wav files to folder "<path_to_repo_download>/LearningToSeparate/dataset/stereo/"
 4. Navigate to "<path_to_repo_download>/LearningToSeparate/dataset/" and run python program "sterio2mono.py".
 ```
